@@ -3,7 +3,7 @@ Script for recommendations for the matching of mentees and mentors of the jDEGA 
 
 ## Loading the script: Arguments
 ```console
-python matching_recommendations.py PATH/TO/FOLDER/FOR/MENTORS PATH/TO/FOLDER/FOR/MENTEES OUTPUTFILE
+python matching_recommendations.py PATH/TO/FOLDER/FOR/MENTORS PATH/TO/FOLDER/FOR/MENTEES OUTPUTFILE.csv
 ```
 
 **Requirements**
